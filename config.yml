@@ -4,9 +4,9 @@ CONFIGURATION:
   arduinoport: COM3                                                 # port for arduino (check in arduino IDE)
 
 GAME:
-  mph: True                                                        # set to true if you want to use mph on the display
-  truevelocity: True                                               # set to true if you want the display to show the true velocity, not the speed of the wheels
+  mph: False                                                        # set to true if you want to use mph on the display
+  truevelocity: False                                               # set to true if you want the display to show the true velocity, not the speed of the wheels
 
 DEBUG:
-  debugmessages: False                                               # set to true if you want the console to write debug messages
-  messagemode: False                                                 # used for development (enables the user to send messages over console manually)
+  debugmessages: False                                              # set to true if you want the console to write debug messages
+  messagemode: False                                                # used for development (enables the user to send messages over console manually)
