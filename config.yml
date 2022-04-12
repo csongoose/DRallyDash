@@ -1,0 +1,12 @@
+CONFIGURATION:
+  dirtip: 127.0.0.1                                                 # ip address for dirt's telemetry data
+  dirtport: 20777                                                   # network port for dirt's telemetry data
+  arduinoport: COM3                                                 # port for arduino (check in arduino IDE)
+
+GAME:
+  mph: True                                                        # set to true if you want to use mph on the display
+  truevelocity: True                                               # set to true if you want the display to show the true velocity, not the speed of the wheels
+
+DEBUG:
+  debugmessages: False                                               # set to true if you want the console to write debug messages
+  messagemode: False                                                 # used for development (enables the user to send messages over console manually)
