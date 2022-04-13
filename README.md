@@ -44,4 +44,7 @@ A3 or 17|4th RPM led (max/shift NOW led)
 It is used for my current setup playing dirt rally 2.0.
 
 ### Why is it better than XY software?
-It isn't. I am only eyperimenting with this.
+It isn't. I am only experimenting with this.
+
+## If you have further questions
+I am available on twitter or reddit. Send a DM my way!
