@@ -1,3 +1,5 @@
+// The license applies for this code as well. See license.md for details.
+
 #define lDisable1 NaN     //unused
 #define rev1 14           //pin for RPM led 1
 #define rev2 15           //pin for RPM led 2
