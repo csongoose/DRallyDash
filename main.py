@@ -45,6 +45,10 @@ messageMode = debugCfg['messagemode']
 
 print('Welcome! You are using version 1.0.0 of the DRallyDash app.')
 print('author: Csongoose')
+print('DrallyDash  Copyright (C) 2022  Csongoose')
+print('This program comes with ABSOLUTELY NO WARRANTY!')
+print('This is free software, and you are welcome to redistribute it under certain conditions. See license for details.')
+print()
 print('Establilishing connection with the arduino...')
 
 arduino = serial.Serial(port=arduinoPort, baudrate=9600, timeout=.1)
